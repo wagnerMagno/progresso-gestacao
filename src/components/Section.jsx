@@ -13,7 +13,7 @@ const useStyles = makeStyles((theme) => ({
         textAlign: 'center'
     },
     description : {
-        textAlign: "justify"
+        textAlign: "center"
     }
 
 }));
