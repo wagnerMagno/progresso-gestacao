@@ -95,7 +95,7 @@ const MainComponent = () => {
   return (
     <div>
       <HeaderComponent />
-      <div className="divTitle">
+      <div id="init" className="divTitle">
         <h1 >
           Ravi ou Jasmine
         </h1>

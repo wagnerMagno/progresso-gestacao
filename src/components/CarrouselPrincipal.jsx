@@ -20,7 +20,7 @@ export default function CarrouselPrincipalComponent(props) {
     const classes = useStyles();
 
     return (
-        <div id="init" className="intro">
+        <div  className="intro">
            
 
             <Carousel>
