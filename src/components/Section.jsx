@@ -24,9 +24,8 @@ export default function SectionComponent({ props }) {
     return (
         <div id={props.key} className={classes.section}>
             <h3 className={classes.title} >{props.title}</h3>
-            <p className={classes.description}>
+            
                 {props.description}
-            </p>
 
 
             {props.images.length > 0 &&
