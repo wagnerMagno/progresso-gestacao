@@ -20,8 +20,8 @@ const MainComponent = () => {
     },
     {
       title: "Segundo mês de gravidez",
-      description: <p style={{textAlign : 'center'}}>
-        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você`
+      description: <p style={{textAlign : 'center'}} className="description">
+        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você
       </p>,
       images: [],
       key: "mes_2"
@@ -29,8 +29,8 @@ const MainComponent = () => {
     },
     {
       title: "Terceiro mês de gravidez",
-      description: <p style={{textAlign : 'center'}}>
-        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você`
+      description: <p style={{textAlign : 'center'}} className="description">
+        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você
       </p>,
       images: [],
       key: "mes_3"
@@ -38,8 +38,8 @@ const MainComponent = () => {
     },
     {
       title: "Quarto mês de gravidez",
-      description: <p style={{textAlign : 'center'}}>
-        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você`
+      description: <p style={{textAlign : 'center'}} className="description">
+        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você
       </p>,
       images: [],
       key: "mes_4"
@@ -47,8 +47,8 @@ const MainComponent = () => {
     },
     {
       title: "Quinto mês de gravidez",
-      description: <p style={{textAlign : 'center'}}>
-        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você`
+      description: <p style={{textAlign : 'center'}} className="description">
+        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você
       </p>,
       images: [],
       key: "mes_5"
@@ -56,8 +56,8 @@ const MainComponent = () => {
     },
     {
       title: "Sexto mês de gravidez",
-      description: <p style={{textAlign : 'center'}}>
-        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você`
+      description: <p style={{textAlign : 'center'}} className="description">
+        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você
       </p>,
       images: [],
       key: "mes_6"
@@ -65,8 +65,8 @@ const MainComponent = () => {
     },
     {
       title: "Sétimo mês de gravidez",
-      description: <p style={{textAlign : 'center'}}>
-        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você`
+      description: <p style={{textAlign : 'center'}} className="description">
+        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você
       </p>,
       images: [],
       key: "mes_7"
@@ -74,8 +74,8 @@ const MainComponent = () => {
     },
     {
       title: "Oitavo mês de gravidez",
-      description: <p style={{textAlign : 'center'}}>
-        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você`
+      description: <p style={{textAlign : 'center'}} className="description">
+        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você
       </p>,
       images: [],
       key: "mes_8"
@@ -83,8 +83,8 @@ const MainComponent = () => {
     },
     {
       title: "Nono mês de gravidez",
-      description: <p style={{textAlign : 'center'}}>
-        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você`
+      description: <p style={{textAlign : 'center'}} className="description">
+        Opa, vá com calma, ainda não cheguei nesse mês gestacional, então acalme o coração que já já estou aí com você
       </p>,
       images: [],
       key: "mes_9"

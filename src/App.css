@@ -61,7 +61,7 @@
 }
 
 #content {
-  padding: 0px 30px;
+  padding: 0px 15%;
 }
 
 
@@ -88,5 +88,9 @@
 
   .divTitle h1 {
     font-size: 30px;
+  }
+
+  .description {
+    text-align: justify !important;
   }
 }
