@@ -12,7 +12,8 @@ const useStyles = makeStyles((theme) => ({
         textAlign: 'center',
         fontSize: '1.5em',
         color: process.env.REACT_APP_SECONDARY_COLOR,
-    }
+    },
+    
 }));
 
 export default function CarrouselPrincipalComponent(props) {
@@ -20,9 +21,7 @@ export default function CarrouselPrincipalComponent(props) {
 
     return (
         <div id="init" className="intro">
-            <h3 className={classes.title}>
-                Ravi ou Jasmine
-            </h3>
+           
 
             <Carousel>
                 <div>

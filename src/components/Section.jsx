@@ -11,6 +11,9 @@ const useStyles = makeStyles((theme) => ({
     },
     title: {
         textAlign: 'center'
+    },
+    description : {
+        textAlign: "justify"
     }
 
 }));
@@ -21,7 +24,7 @@ export default function SectionComponent({ props }) {
     return (
         <div id={props.key} className={classes.section}>
             <h3 className={classes.title} >{props.title}</h3>
-            <p>
+            <p className={classes.description}>
                 {props.description}
             </p>
 

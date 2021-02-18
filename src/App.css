@@ -37,10 +37,8 @@
   }
 }
 
-
-
 .carousel-root {
-  width: 60%;
+  width: 40%;
   margin: auto;
 }
 
@@ -62,12 +60,33 @@
   left: 45% !important;
 }
 
-#content{
+#content {
   padding: 0px 30px;
 }
+
+
+
+.divTitle {
+  background: url(./asserts/images/tay-day.jpg) no-repeat center center;
+  padding: 1px 0px;
+  margin-bottom: 15px;
+  background-size: cover;
+}
+
+.divTitle h1 {
+  text-align: center;
+  color: #808080;
+  font-size: 47px;
+
+}
+
 
 @media (max-width: 768px) {
   .carousel-root {
     width: 90%;
+  }
+
+  .divTitle h1 {
+    font-size: 30px;
   }
 }
